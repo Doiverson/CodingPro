@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-color: black;
+  background-image: url("../img/Starry_sky_.png");
   height: 100%;
   background-attachment: fixed;
   background-size: cover;
@@ -28,9 +28,9 @@ body {
 }
 
 .logo {
-  height: 80px;
-  width: 80px;
-  background-image: url("../img/spaceship.png");
+  height: 60px;
+  width: 110px;
+  background-image: url("../img/ET.jpeg");
   background-size: contain;
   background-repeat: no-repeat;
   display: inline-block;
@@ -124,12 +124,6 @@ nav a {
 @media only screen and (min-width: 320px) and (max-width: 480px) ,(orientation: portrait){
   .gallery-item .thumbnail {
     width: 95%;
-  }
-}
-
-@media only screen and (min-resolution: 150dpi) {
-  .logo {
-    background-image: url("../img/spaceship@2x.png");
   }
 }
 
