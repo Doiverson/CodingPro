@@ -10,6 +10,7 @@
 
 int main(void){
     float a[100];
+    float b[100];
     int i;
     
     for(i=0; i<5; i++){
