@@ -1,0 +1,194 @@
+/* =================================
+  Base Element Styles
+==================================== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Indie Flower','Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic', sans-serif;
+  font-size: 100%;
+  color: white;
+  background-color: #141414;
+}
+p {
+  line-height: 1.8;
+}
+.container {
+  max-width: 100%;
+  width: 1140px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#header {
+  position: fixed;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  height: 130px;
+  background-color: rgba(102, 77, 72, 0.65);
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.header-nav__logo img {
+  width: 70px;
+  height: auto;
+}
+.header-nav__links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header-nav__links li {
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.header-nav__links li a,
+.btn {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  color: white;
+  border: dotted white;
+  border-radius: 15%;
+}
+
+.header-nav__links li a:hover {
+  background: #800000;
+  color: inherit;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;              /* Columnに対してWrapを指定した場合はどうなるか */
+  padding-top: 150px;
+  padding-bottom: 0;
+  margin-bottom: 40px;            /* margin40pxとpadding40pxの違い。なぜmarginか */
+}
+
+.hero__title {
+  font-size: 3em;
+  margin: 0;
+}
+
+.hero h3 {
+  font-size: 1.3em;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+}
+
+.btn:hover {
+  background:#800000;
+}
+
+.hero__img {
+  width: 80%;
+  height: auto;
+  margin-top: 40px;
+}
+
+.features {
+  padding: 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+}
+
+.features h2 {
+  font-size: 2em;
+}
+
+.features__text {
+  font-size: 1.3em;
+  max-width: 800px;
+  width: 37%;
+  margin-bottom: 50px;
+}
+
+.features-list {
+  display: flex;
+  /* align-items: baseline; */
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.features__feature {
+  margin: 15px auto;
+  /* padding: 20px; */
+  width: 35%;
+  border: dotted white;
+  border-radius: 5%;
+}
+
+.features__feature-content {
+  max-width: 400px;
+  padding: 0 15px;
+}
+
+.features__feature-content h3 {
+  font-size: 1.3em;
+}
+
+.banner {
+  background:url(../img/coffee.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 195px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.banner-content {
+  padding: 40px 30px;
+  margin-left: 210px;
+}
+
+.banner-content p {
+  font-size: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+.about {
+  padding: 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+}
+
+#footer {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.copyright {
+  font-size: 12px;
+  text-align: center;
+  color: #868e96;
+}
+
+
+/* =================================
+  Media Queries
+==================================== */
