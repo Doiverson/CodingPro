@@ -21,7 +21,7 @@ int main(void){
     printf("Enter your ID Number");
     scanf("%d", &seito1.no);
     printf("Enter your Name");
-    scanf("%s", seito1.name);
+    scanf("%s", &seito1.name);
     printf("Average score");
     scanf("%lf", &seito1.average);
     
@@ -30,7 +30,7 @@ int main(void){
         printf("Enter your ID Number");
         scanf("%d", &seito2[i].no);
         printf("Enter your Name");
-        scanf("%s", seito2[i].name);
+        scanf("%s", &seito2[i].name);
         printf("Average score");
         scanf("%lf", &seito2[i].average);
     }

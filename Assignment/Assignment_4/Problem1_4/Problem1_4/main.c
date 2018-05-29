@@ -8,12 +8,32 @@
 
 #include <stdio.h>
 
-int main() {
-    char button[] = {'p','c','v','m','x','q','n'};
-    printf("%c \n", button[1]);
+struct date {
+    int day;
+    int month;
+    int year;
+};
+
+struct machine {
+    int name;
+    char *memory;
+};
+
+int main(void){
     
-    char x;
-    printf("Enter the command = ");
-    scanf("%c", &x );
-    printf("%c", x);
+    struct date *dates;
+    struct date a;
+    
+    dates = &a;
+    dates -> day = 10;
+    printf("%d \n", dates->day);       // For check
+    
+    
+    struct machine *mpu641;
+    struct machine b;
+    
+    mpu641 = &b;
+    char array[] = "CPUtype";
+    mpu641 -> memory =array;
+    printf("%s \n", mpu641->memory);   // For check
 }
