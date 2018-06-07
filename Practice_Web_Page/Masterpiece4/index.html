@@ -12,7 +12,7 @@
 
       <form action="index.html" method="post">
         <h1>Sign up</h1>
-        
+
         <fieldset>
           <legend><span class=number>1</span>Your Basic Info</legend>
           <label for="name">Name:</label>
@@ -21,16 +21,30 @@
           <input type="email" id="mail" name="user_email">
           <label for="password">Password:</label>
           <input type="password" id="password" name="user_password">
+          <label>Age</label>
+          <input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">under_13</label><br>
+          <input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">13 or older</label>
+
         </fieldset>
-        
+
         <fieldset>
-           <legend><span class=number>2</span>Your Profile</legend>
+          <legend><span class=number>2</span>Your Profile</legend>
           <label for="bio">Biography:</label>
           <textarea id="bio" name="user_bio"></textarea>
+          <label for="job">Job Role:</label>
+          <select class="job" name="user_job">
+            <optgroup label="Front">
+              <option value="frontend_developer">Front-End-Developer</option>
+            </optgroup>
+            <optgroup label="Back">
+              <option value="backend_developer">Back-End-Developer</option>
+            </optgroup>
+
+          </select>
         </fieldset>
          <button type="submit">Sign Up</button>
-     
+
       </form>
-      
+
     </body>
 </html>
