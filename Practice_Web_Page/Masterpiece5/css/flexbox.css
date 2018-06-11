@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+
+}
+
+/* 余白を埋める
+.item {
+  flex-grow: 1;
+}
+*/
+.item {
+  flex-basis: 150px;  /*width使うより、こっちのほうが良さそう。ボックス幅を均等にする時とか */
+}
+
+.blog-title {
+  margin-right: auto;
+}
