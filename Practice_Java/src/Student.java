@@ -3,33 +3,22 @@ public class Student {
     String lastname;
     String stID;
     float gpa;
-    array[] course;
 
-
-    public Person(String firstname, String lastname, String stID, float gpa){
-        this.firstname = first;
-        this.lastname = last;
-        this.stId = id;
-        this.gpa = gpa;
+    public Student(){
+        firstname = "Shosuke";
+        lastname = "Doi";
+        stID = "116150";
+        gpa = 100;
     }
 
-    public String getFirstname(){
-        return first;
+    public void course(){
+        System.out.println(firstname);
+        System.out.println(lastname);
+        System.out.println(stID);
+        System.out.println(gpa);
+        return;
     }
 
-    public String getLastname(){
-        return last;
-    }
-
-    public String getStID(){
-        return id;
-    }
-
-    public float getGpa(){
-        return gpa;
-    }
-
-    
 }
 
 

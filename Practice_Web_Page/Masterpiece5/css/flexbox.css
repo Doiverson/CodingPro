@@ -1,3 +1,4 @@
+
 .container {
   display: flex;
   flex-direction: row;
@@ -7,15 +8,33 @@
 
 }
 
+.container2 {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: space-around;
+  text-align: center;
+}
 /* 余白を埋める
 .item {
   flex-grow: 1;
 }
 */
-.item {
-  flex-basis: 150px;  /*width使うより、こっちのほうが良さそう。ボックス幅を均等にする時とか */
+.item, {
+  flex-basis: 150px;  /*width使うより、こっちのほう0が良さそう。ボックス幅を均等にする時とか and 0にするとアイテムが全て同じラインにのる*/
 }
+
+/*.item-1 {*/
+  /*flex: 1;*/
+  /*align-self: flex-start;*/
+/*}*/
 
 .blog-title {
   margin-right: auto;
+}
+
+.A {
+  margin-top: auto;
 }

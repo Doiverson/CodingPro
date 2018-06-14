@@ -192,3 +192,28 @@ p {
 /* =================================
   Media Queries
 ==================================== */
+@media (max-width: 450px) {
+    .header-nav__links li {
+        margin-left: 0.5em;
+    }
+
+    .header-nav__links li a {
+      padding: 13px 13px;
+    }
+
+    .features {
+        padding: 10px 0;
+    }
+
+    .features__feature {
+        width: 49%;
+    }
+
+    .features__text {
+        width: 90%;
+    }
+
+    .banner-content {
+        margin-left: 15px;
+    }
+}
