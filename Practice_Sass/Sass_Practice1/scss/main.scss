@@ -1,0 +1,27 @@
+
+$baseFontSize: 30px;
+$baseFontColor: #3a87ad; // "darken" "lighten"
+$debugMode: false;
+
+#main {
+  width: 90%;
+  p {
+    font-size: $baseFontSize;
+    &:hover {
+      font-weight: bold;
+    }
+    .name {
+      @if $debugMode == true {
+        color: #062;
+      } @else {
+        color: lawngreen;
+      }
+    }
+  }
+
+}
+
+.title {
+  font-size: $baseFontSize + 10px;
+  color: lighten($baseFontColor, 10%);
+}
