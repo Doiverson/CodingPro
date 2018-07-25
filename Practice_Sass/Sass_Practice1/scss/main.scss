@@ -1,4 +1,7 @@
 
+//less css/main.css
+//sass --style expanded --watch scss:css
+
 $baseFontSize: 30px;
 $baseFontColor: #3a87ad; // "darken" "lighten"
 $debugMode: false;
@@ -24,4 +27,21 @@ $debugMode: false;
 .title {
   font-size: $baseFontSize + 10px;
   color: lighten($baseFontColor, 10%);
+}
+
+
+//@for $i from 10 through 15 {
+//  .fs#{$i}{
+//    font-size: #{$i}px;}
+//}
+
+//$i: 10;
+//@while $i <= 14 {
+//  .fs#{$i}{font-size: #{$i}px;}
+//  $i: $i + 1;
+//}
+
+$animals: cat, dog, tiger;
+@each $animal in $animals {
+  .#{$animal}-icon{background: url("#{$animal}.png");}
 }

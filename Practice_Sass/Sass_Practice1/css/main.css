@@ -16,4 +16,16 @@
   color: #54a0c6;
 }
 
+.cat-icon {
+  background: url("cat.png");
+}
+
+.dog-icon {
+  background: url("dog.png");
+}
+
+.tiger-icon {
+  background: url("tiger.png");
+}
+
 /*# sourceMappingURL=main.css.map */
