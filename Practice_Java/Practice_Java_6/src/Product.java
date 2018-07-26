@@ -1,4 +1,5 @@
 
 class Product {
-    Integer ProductID;
+    int ProductID;
+    
 }
