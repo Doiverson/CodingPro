@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d19c46-1171-4aff-915a-a791a83964f3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ApplicationDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Sass/Sass_Practice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Sass/Sass_Practice1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Sass/Sass_Practice1/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Sass/Sass_Practice1/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/css/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/css/selectors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/MasterPiece10/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Food.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="180">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
@@ -170,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532645224019" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532645386256" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -233,15 +232,15 @@
       <updated>1532578554440</updated>
       <workItem from="1532578558574" duration="386000" />
       <workItem from="1532636138647" duration="110000" />
-      <workItem from="1532636446500" duration="6973000" />
+      <workItem from="1532636446500" duration="7182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7469000" />
+    <option name="totallyTimeSpent" value="7678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="641" y="0" width="700" height="900" extended-state="0" />
+    <frame x="641" y="0" width="700" height="900" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14893617" />
@@ -319,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Food.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
