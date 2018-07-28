@@ -1,5 +1,7 @@
+
 import java.io.File;
 import java.util.Scanner;
+
 
 class Courses {
     public void run(){
@@ -9,6 +11,12 @@ class Courses {
         String pass = scan.nextLine();
 
         String inpUser = keyboard.nextLine();
-        
+        String inpPass = keyboard.nextLine();
+
+        if(inpUser.equals(user) && inpPass.equals(pass)){
+            System.out.print("your login message");
+        } else {
+            System.out.print("your error message");
+        }
     }
 }
