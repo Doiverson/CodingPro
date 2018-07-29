@@ -22,3 +22,8 @@ input:not([type="submit"]){
 nav a:not(:first-child) {
     margin-left: 15px;
 }
+
+a .col:first-line {
+    font-weight: bold;
+    font-size: 2em;
+}
