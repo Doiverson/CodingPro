@@ -28,4 +28,9 @@
   background: url("tiger.png");
 }
 
+.grid {
+  float: left;
+  width: 180px;
+}
+
 /*# sourceMappingURL=main.css.map */

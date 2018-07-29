@@ -1,4 +1,4 @@
-
+//sass --style expanded scss/main.scss:css/main.css
 //less css/main.css
 //sass --style expanded --watch scss:css
 
@@ -44,4 +44,19 @@ $debugMode: false;
 $animals: cat, dog, tiger;
 @each $animal in $animals {
   .#{$animal}-icon{background: url("#{$animal}.png");}
+}
+
+$totalWidth: 940px;
+$columnCount: 5;
+
+@function getColumnWidth($a, $b){
+  $padding: 10px;
+  $columnWidth: floor(($a - ($padding*($b - 1)))/ $b);
+  @debug $columnWidth;
+  @return $columnWidth;
+}
+
+.grid {
+  float:left;
+  width: getColumnWidth($totalWidth, $columnCount);
 }
