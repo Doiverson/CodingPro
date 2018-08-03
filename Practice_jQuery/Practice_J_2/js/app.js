@@ -5,7 +5,7 @@ $('.spoiler').prepend($button);
 
 $('.spoiler span').hide();
 
-$('.spoiler button').click(function () {
+$('.spoiler button').on('click', function () {
     $('.spoiler span').show();
     $('.spoiler button').hide();
 });
