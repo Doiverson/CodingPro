@@ -11,7 +11,7 @@ div {
 }
 
 ul {
-    display: inline-block;
+    display: inline-block; /*１：親要素の中央に配置したい→blockだと幅を合わせてしまうので、左に寄ったまま（親要素のtext-alignが効かない）→inline-blockにすることで親要素の幅に合わせなくなる（要素自体の幅になる？）→text-alignが効く。*/
     list-style: none;
     text-align: center;
 }
