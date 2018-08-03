@@ -1,4 +1,7 @@
 
+const $button = $('<button>Reveal Spoiler</button>');
+$('.spoiler').prepend($button);
+
 
 $('.spoiler span').hide();
 
