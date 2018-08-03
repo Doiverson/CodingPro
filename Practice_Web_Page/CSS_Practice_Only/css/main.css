@@ -14,6 +14,8 @@ ul {
     display: inline-block; /*１：親要素の中央に配置したい→blockだと幅を合わせてしまうので、左に寄ったまま（親要素のtext-alignが効かない）→inline-blockにすることで親要素の幅に合わせなくなる（要素自体の幅になる？）→text-alignが効く。*/
     list-style: none;
     text-align: center;
+    border-spacing: 15px 0; /*２：子要素のtable-cellの隙間を開ける場合は親要素にborder-spacing&border-collapseを追加する*/
+    border-collapse: separate;
 }
 
 li {
