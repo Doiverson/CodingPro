@@ -1,9 +1,17 @@
+header {
+    width: 100%;
+    background-color: darkseagreen;
+}
 
 div {
     display: block;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 ul {
+    display: inline-block;
     list-style: none;
     text-align: center;
 }
@@ -18,3 +26,5 @@ li {
     color: #ffffff;
     vertical-align: middle;
 }
+
+/*display:block;の場合は幅・高さ指定を指定ないと親要素のサイズに自動的に合わせるから注意*/
