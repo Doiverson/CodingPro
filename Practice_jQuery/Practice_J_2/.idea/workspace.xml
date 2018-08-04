@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf59a82-00cb-415b-bbc4-068b751ac671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/src/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/src/Courses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -150,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533337858991</updated>
-      <workItem from="1533337860423" duration="2929000" />
+      <workItem from="1533337860423" duration="3049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2929000" />
+    <option name="totallyTimeSpent" value="3049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="699" y="96" width="942" height="900" extended-state="0" />
@@ -205,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
