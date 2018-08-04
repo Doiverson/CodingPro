@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf59a82-00cb-415b-bbc4-068b751ac671" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/src/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/Practice_Java_7/src/Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,7 +87,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="699" />
     <option name="y" value="96" />
     <option name="width" value="942" />
@@ -158,7 +156,7 @@
     <option name="totallyTimeSpent" value="3049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="699" y="96" width="942" height="900" extended-state="0" />
+    <frame x="699" y="96" width="942" height="900" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
