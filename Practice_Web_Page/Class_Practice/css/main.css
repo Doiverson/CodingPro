@@ -1,0 +1,16 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.size {
+    height: 300px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: darkseagreen;
+
+}
+
+h1 {
+    color: tomato;
+}
