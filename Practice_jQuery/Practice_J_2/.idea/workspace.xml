@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf59a82-00cb-415b-bbc4-068b751ac671" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Practice_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
