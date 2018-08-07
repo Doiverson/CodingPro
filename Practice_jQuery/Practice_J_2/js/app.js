@@ -5,12 +5,12 @@
 $('.spoiler').on('click', 'button', function(event){
     console.log(event.target);
 
-    // $('.spoiler span').show();
+    $('event.target')
     $(event.target).hide();
 });
 
 const $button = $('<button>Reveal Spoiler</button>');
-$('.spoiler').prepend($button);
+$('.spoiler').append($button);
 
 
 $('.spoiler span').hide();
