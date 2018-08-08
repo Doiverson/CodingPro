@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8cf59a82-00cb-415b-bbc4-068b751ac671" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,22 +23,26 @@
     <session id="1055982087">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="html" value="1" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="2" />
         </counts>
@@ -41,13 +50,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="95" />
-          <entry key="js" value="361" />
+          <entry key="js" value="378" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="95" />
-          <entry key="JavaScript" value="361" />
+          <entry key="JavaScript" value="378" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -67,8 +76,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -82,6 +100,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
@@ -92,10 +111,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="498" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="302" />
+    <option name="y" value="28" />
     <option name="width" value="942" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,6 +129,11 @@
             <path>
               <item name="Practice_J_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice_J_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_J_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_J_2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practice_J_2" type="b2602c69:ProjectViewProjectNode" />
@@ -157,14 +182,17 @@
       <workItem from="1533592435281" duration="516000" />
       <workItem from="1533620200187" duration="759000" />
       <workItem from="1533655224385" duration="897000" />
+      <workItem from="1533707376493" duration="320000" />
+      <workItem from="1533746047438" duration="1132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6641000" />
+    <option name="totallyTimeSpent" value="8093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="498" y="0" width="942" height="900" extended-state="1" />
+    <frame x="302" y="28" width="942" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2019544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -178,7 +206,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32920793" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32866243" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -202,10 +230,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
