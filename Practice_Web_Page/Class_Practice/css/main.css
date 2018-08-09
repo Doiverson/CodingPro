@@ -1,35 +1,4 @@
-
-* {
-    box-sizing: border-box;
-}
-
-html{
-    height: 100%;
-}
-
-body {
-    height: 100%;
-}
-
-.size {
-    height: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
-    background-color: darkseagreen;
-    font-size: 2.5em;
-}
-
-h1 {
-    color: tomato;
-}
-
-table {
-    width: 200px;
-    height: 100px;
-    text-align: center;
-}
-
-a {
-    border-collapse: collapse;
+img {
+    width: 50%;
+    height: 50%;
 }

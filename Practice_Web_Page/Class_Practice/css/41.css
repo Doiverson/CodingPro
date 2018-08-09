@@ -1,0 +1,15 @@
+table {
+    width: 470px;
+    text-align: center;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+.table {
+    display: block;
+    position: relative;
+    width: 500px;
+    margin: auto;
+}

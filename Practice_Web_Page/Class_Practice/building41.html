@@ -3,54 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <style>
-        table, th, td{
-            border: 1px solid black;
-
-        }
-    </style>
-    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="css/41.css">
 </head>
 <body>
 <img src="img/screenshot.png" alt="inst">
 
-
-<table>
-    <tbody>
-    <tr>
-        <td>Inline</td>
-        <td>Internal</td>
-        <td>External</td>
-    </tr>
-    <tr>
-        <td>&lt;h1 style=""&gt;</td>
-        <td>&lt;style&gt;&lt;/style&gt;</td>
-        <td>&lt;link rel=""&gt;</td>
-    </tr>
-    <tr>
-        <td colspan="2">Inside HTML</td>
-        <td>Outside HTML</td>
-    </tr>
-    <tr>
-        <td>Most Powerful</td>
-        <td>Resides in <head></td>
-        <td>Separate HTML</td>
-    </tr>
-    <tr>
-        <td colspan="2">Remark1</td>
-        <td rowspan="2">Remark3</td>
-    </tr>
-    <tr>
-        <td colspan="2">Remark2</td>
-    </tr>
-    </tbody>
-</table>
+<div class="table">
+    <table>
+        <tbody>
+        <tr>
+            <td>Inline</td>
+            <td>Internal</td>
+            <td>External</td>
+        </tr>
+        <tr>
+            <td>&lt;h1 style=""&gt;</td>
+            <td>&lt;style&gt;&lt;/style&gt;</td>
+            <td>&lt;link rel=""&gt;</td>
+        </tr>
+        <tr>
+            <td colspan="2">Inside HTML</td>
+            <td>Outside HTML</td>
+        </tr>
+        <tr>
+            <td>Most Powerful</td>
+            <td>Resides in <head></td>
+            <td>Separate HTML</td>
+        </tr>
+        <tr>
+            <td colspan="2">Remark1</td>
+            <td rowspan="2">Remark3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Remark2</td>
+        </tr>
+        </tbody>
+    </table>
+</div>>
 
 <picture>
     <source media="(min-width: 650px)" srcset="img/eagle.jpg">
     <source media="(min-width: 450px)" srcset="img/pigeon.jpg">
-    <source media="(min-width: 320px)" srcset="img/sparrow.jpg">
-    <img src="img/hummingbird.jpg" alt="" style="width:auto;">
+    <source media="(min-width: 300px)" srcset="img/sparrow.jpg">
+    <img src="img/hummingbird.jpg" alt="">
 </picture>
 </body>
 </html>
