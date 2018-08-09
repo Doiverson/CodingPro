@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5ad4b52-32db-4234-b42d-32750ae45d21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/building41.html" beforeDir="false" afterPath="$PROJECT_DIR$/building41.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/41.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/41.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class_Practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class_Practice2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" afterDir="false" />
@@ -25,7 +21,7 @@
     <session id="-186085199">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -36,7 +32,7 @@
         <counts>
           <entry key="css" value="3" />
           <entry key="html" value="2" />
-          <entry key="jpg" value="2" />
+          <entry key="jpg" value="3" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
@@ -44,7 +40,7 @@
         <counts>
           <entry key="CSS" value="3" />
           <entry key="HTML" value="2" />
-          <entry key="Image" value="3" />
+          <entry key="Image" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -85,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/building41.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
               <folding>
                 <element signature="e#243#247#0" expanded="true" />
                 <element signature="e#258#262#0" expanded="true" />
@@ -99,6 +95,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/hummingbird.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -140,6 +141,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="185" />
+    <option name="y" value="99" />
     <option name="width" value="921" />
     <option name="height" value="900" />
   </component>
@@ -160,6 +163,11 @@
               <item name="Class_Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_Practice" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,16 +213,15 @@
       <updated>1533661066033</updated>
       <workItem from="1533661068192" duration="8415000" />
       <workItem from="1533707378051" duration="188000" />
-      <workItem from="1533830070874" duration="6682000" />
+      <workItem from="1533830070874" duration="6962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15285000" />
+    <option name="totallyTimeSpent" value="15565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="921" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -272,10 +279,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/hummingbird.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/building41.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="360">
+          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
           <folding>
             <element signature="e#243#247#0" expanded="true" />
             <element signature="e#258#262#0" expanded="true" />
