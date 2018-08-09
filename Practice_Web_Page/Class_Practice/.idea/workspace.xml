@@ -4,7 +4,6 @@
     <list default="true" id="c5ad4b52-32db-4234-b42d-32750ae45d21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CSS_Practice_Only/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS_Practice_Only/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Class_Practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class_Practice2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_3/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,8 +23,9 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -81,18 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/building41.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-              <folding>
-                <element signature="e#243#247#0" expanded="true" />
-                <element signature="e#258#262#0" expanded="true" />
-                <element signature="e#278#282#0" expanded="true" />
-                <element signature="e#286#290#0" expanded="true" />
-                <element signature="e#287#291#0" expanded="true" />
-                <element signature="e#300#304#0" expanded="true" />
-                <element signature="e#325#329#0" expanded="true" />
-                <element signature="e#336#340#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -140,7 +130,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="185" />
     <option name="y" value="99" />
     <option name="width" value="921" />
@@ -214,14 +204,15 @@
       <workItem from="1533661068192" duration="8415000" />
       <workItem from="1533707378051" duration="188000" />
       <workItem from="1533830070874" duration="6962000" />
+      <workItem from="1533842085577" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15565000" />
+    <option name="totallyTimeSpent" value="15871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="921" height="900" extended-state="0" />
+    <frame x="185" y="99" width="921" height="900" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,7 +252,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -272,6 +263,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/hummingbird.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/41.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -279,23 +273,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/hummingbird.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/building41.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="e#243#247#0" expanded="true" />
-            <element signature="e#258#262#0" expanded="true" />
-            <element signature="e#278#282#0" expanded="true" />
-            <element signature="e#286#290#0" expanded="true" />
-            <element signature="e#287#291#0" expanded="true" />
-            <element signature="e#300#304#0" expanded="true" />
-            <element signature="e#325#329#0" expanded="true" />
-            <element signature="e#336#340#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
         </state>
       </provider>
     </entry>
