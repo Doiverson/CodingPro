@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_J_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_J_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -157,16 +156,15 @@
       <workItem from="1533762425678" duration="1950000" />
       <workItem from="1533842085305" duration="296000" />
       <workItem from="1533943006587" duration="76000" />
-      <workItem from="1533943111531" duration="259000" />
+      <workItem from="1533943111531" duration="878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2581000" />
+    <option name="totallyTimeSpent" value="3200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="267" y="0" width="868" height="900" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24911453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
