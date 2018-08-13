@@ -4,49 +4,32 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        *{
-            border: 1px solid green;
-        }
-        h1 {
-            background-color: red;
-            height: 300px;
-            font-size: 100px;
-            /*margin: 0;*/
-            text-align: center;
-            line-height: 300px;
-        }
-        body{
-            background: blue;
-            /*margin: 0;*/
-        }
-        p{
-            color: white;
-        }
-        .yellow{
-            background-color: yellow;
-            color: black;
-            font-size: 30px;
-            text-align: center;
-            padding: 10px;
-            height: 300px;
-            width: 300px;
-            border: 1px dotted brown;
-            line-height: 300px; /*上下中央 */
-        }
-        a {
-            text-decoration: none;
-        }
-        a:hover {
-            color: lawngreen;
-        }
-    </style>
-    <link rel="shortcut icon" type="x-icon"  href="img/GitHub.png">
     <title>CICCC</title>
 </head>
-<body>
-    <h1>OMG</h1>
-   <a href="https://ja.wikipedia.org/wiki/WTF" target="_blank"><p class="yellow">WTF</p></a>　 <!--_blank は新規タブ-->
-    <p class="yellow">SMH</p>
+<body style="margin: 0; padding: 0; font-family: 'Trebuchet MS',verdana;">
+    <table width="100%" style="height: 100%;" cellpadding="10" cellspacing="0" border="0">
+        <!-- ============ HEADER SECTION ============== -->
+
+        <tr><td colspan="3" style="height: 100px;" bgcolor="#777d6a">
+            <h1>Website Logo</h1></td></tr>
+        <!-- ============ NAVIGATION BAR SECTION ============== -->
+        <tr><td colspan="3" valign="middle" height="30" bgcolor="#a9ae9f">
+            <a href="#">Home</a></td></tr>
+        <tr>
+            <!-- ============ LEFT COLUMN (MENU) ============== -->
+            <td width="20%" valign="top" bgcolor="#999f8e">
+                <a href="#">Home</a><br>
+                <a href="#">Products</a><br>
+                <a href="#">About Us</a><br>
+                <a href="#">Resources</a><br>
+                <a href="#">Links</a></td>
+            <!-- ============ MIDDLE COLUMN (CONTENT) ============== -->
+            <td width="55%" valign="top" bgcolor="#d2d8c7">
+                <h2>Contents</h2>A three column layout with header, navigation bar and footer sections. The first, second and fourth table rows create the header, navigation bar and footer respectively and contain a single table cell each. All these table cells use colspan="3" attribute-value pair. <br>
+                <br>The third table row contains three table cells which create the menu column (left), the content column (middle) and the extra column (right).<br><br></td>
+            <td width="25%" valign="top" bgcolor="#999f8e">&nbsp;</td></tr>
+        <!-- ============ FOOTER SECTION ============== -->
+        <tr><td colspan="3" align="center" height="20" bgcolor="#777d6a">Copyright &copy; 2016</td></tr>
+    </table>
 </body>
 </html>

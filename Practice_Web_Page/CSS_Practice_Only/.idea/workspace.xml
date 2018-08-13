@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b886184-5ae3-4cc3-93e1-dcfdf994cdcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Practice/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_Practice/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_jQuery/Practice_J_2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,7 +20,7 @@
     <session id="417948722">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -101,7 +103,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="569" />
     <option name="width" value="845" />
     <option name="height" value="900" />
@@ -172,7 +174,8 @@
     <option name="totallyTimeSpent" value="9300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="0" width="845" height="900" extended-state="1" />
+    <frame x="569" y="0" width="845" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3288835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

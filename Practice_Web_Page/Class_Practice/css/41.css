@@ -7,9 +7,18 @@ table, th, td{
     border: 1px solid black;
 }
 
+th {
+    background-color: darkseagreen;
+}
+
 .table {
     display: block;
     position: relative;
     width: 500px;
     margin: auto;
+}
+
+.map {
+    text-align: center;
+    margin-top: 20px;
 }

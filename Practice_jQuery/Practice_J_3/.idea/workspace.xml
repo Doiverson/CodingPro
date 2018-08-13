@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/css/41.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/css/41.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_J_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_J_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,11 +26,12 @@
     <session id="859468583">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -107,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,14 +164,18 @@
       <workItem from="1533943111531" duration="1112000" />
       <workItem from="1534013681217" duration="599000" />
       <workItem from="1534050619267" duration="422000" />
+      <workItem from="1534133882046" duration="630000" />
+      <workItem from="1534140807272" duration="583000" />
+      <workItem from="1534174169276" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4455000" />
+    <option name="totallyTimeSpent" value="5956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="267" y="0" width="868" height="900" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24911453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
