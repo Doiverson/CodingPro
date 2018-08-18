@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f737307a-e19e-4290-a6e3-c5c5659cf47a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/sub.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/top.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/Masterpiece4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Class_Practice2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Web_Page/Masterpiece4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,13 +19,14 @@
     <session id="859468583">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -102,7 +94,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="267" />
     <option name="width" value="868" />
     <option name="height" value="900" />
@@ -170,15 +162,17 @@
       <workItem from="1534133882046" duration="630000" />
       <workItem from="1534140807272" duration="583000" />
       <workItem from="1534174169276" duration="288000" />
-      <workItem from="1534262289857" duration="546000" />
+      <workItem from="1534262289857" duration="1153000" />
+      <workItem from="1534268832780" duration="20000" />
+      <workItem from="1534268923019" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6502000" />
+    <option name="totallyTimeSpent" value="7134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="0" width="868" height="900" extended-state="1" />
+    <frame x="267" y="0" width="868" height="900" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24911453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
