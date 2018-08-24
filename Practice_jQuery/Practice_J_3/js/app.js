@@ -18,3 +18,8 @@ $pdfs.on('click', (event)=>{
 });
 
 $('#links').append($pdfCheckbox);
+
+$('a').each(function (index, link) {
+    const url = $(link).attr('href');
+    $(link).parent().append()
+})
