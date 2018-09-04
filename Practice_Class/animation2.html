@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div {
+            width: 400px; 
+            height: 100px;
+            position: relative;
+            background-color: red;
+            -webkit-animation-name: test;
+            -webkit-animation-duration: 4s;
+            animation-name: test;
+            animation: test 4s infinite;
+        }
+
+        @-webkit-keyframes test {
+            0% {background-color: red;
+                left:0; top:0;}
+            25% {background-color: yellow;
+                left:200px; top:0;}
+            50% {background-color: blue;
+                left:200px; top:200px;}
+            100% {background-color: green;
+                left:0; top:200px;}
+        }
+
+        input:focus {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <p><b>Note:</b> This example does not work in Internet Explorer 9 and earlier versions.</p>
+    <div> </div>
+
+    <p>Click inside the text fields to see a yellow background:</p>
+    <form>
+        First name: <input type="text" name="firstname"><br>
+        Last name: <input type="text" name="lastname">
+    </form>
+
+</body>
+</html>

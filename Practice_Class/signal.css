@@ -1,0 +1,67 @@
+
+.container {
+    display: flex;
+    width: 540px;
+    height: auto;
+    background-color: grey;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+p {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 5px;
+}
+
+.red {
+    -webkit-animation-name: red;
+    -webkit-animation-duration: 2s;
+    animation: red;
+    animation-duration: 2s;
+}
+
+.yellow {
+    -webkit-animation-name: yellow;
+    -webkit-animation-duration: 2s;
+    animation-name: yellow;
+    animation-duration: 4s;
+}
+
+.green {
+    -webkit-animation-name: green;
+    -webkit-animation-duration: 2s;
+    animation-name: green;
+    animation-duration: 4s;
+}
+
+@-webkit-keyframes red{
+    from {
+        background-color: white;
+    }
+    to {
+        background-color: red;
+    }
+}
+
+@-webkit-keyframes yellow{
+    from {
+        background-color: white;
+    }
+    to {
+        background-color: yellow;
+    }
+}
+
+@-webkit-keyframes green{
+    from {
+        background-color: white;
+    }
+    to {
+        background-color: green;
+    }
+}
