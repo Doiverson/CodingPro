@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823a7330-491f-44fe-9009-e08f67fc3e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,7 +58,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="58" column="140" lean-forward="true" selection-start-line="58" selection-start-column="140" selection-end-line="58" selection-end-column="140" />
+            <state relative-caret-position="314">
+              <caret line="49" column="202" selection-start-line="49" selection-start-column="202" selection-end-line="49" selection-end-column="202" />
             </state>
           </provider>
         </entry>
@@ -115,8 +115,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
       </list>
     </option>
   </component>
@@ -194,12 +194,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536100958912</updated>
       <workItem from="1536100960793" duration="2595000" />
-      <workItem from="1536123173781" duration="1795000" />
+      <workItem from="1536123173781" duration="1962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4390000" />
+    <option name="totallyTimeSpent" value="4557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="261" y="0" width="907" height="900" extended-state="0" />
@@ -244,13 +244,6 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="58" column="140" lean-forward="true" selection-start-line="58" selection-start-column="140" selection-end-line="58" selection-end-column="140" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-930" />
@@ -260,6 +253,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="49" column="202" selection-start-line="49" selection-start-column="202" selection-end-line="49" selection-end-column="202" />
         </state>
       </provider>
     </entry>
