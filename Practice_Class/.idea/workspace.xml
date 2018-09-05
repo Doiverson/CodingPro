@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="327e63a6-7552-423c-92da-9d5a2f289ece" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Practice_Bootstrap/Practice_Bootstrap_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Bootstrap/Practice_Bootstrap_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice_Sass/Sass_Practice3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Sass/Sass_Practice3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_Sass/Sass_Practice3/node_modules/balanced-match/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_Sass/Sass_Practice3/node_modules/balanced-match/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -186,12 +186,12 @@
       <updated>1536076459025</updated>
       <workItem from="1536076461121" duration="4417000" />
       <workItem from="1536084337855" duration="1194000" />
-      <workItem from="1536123173589" duration="423000" />
+      <workItem from="1536123173589" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6034000" />
+    <option name="totallyTimeSpent" value="6261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="0" width="1258" height="900" extended-state="1" />

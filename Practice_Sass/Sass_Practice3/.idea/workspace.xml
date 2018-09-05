@@ -4,7 +4,6 @@
     <list default="true" id="823a7330-491f-44fe-9009-e08f67fc3e41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Practice_Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice_Class/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,20 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="-181">
               <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="49" column="200" selection-start-line="49" selection-start-column="200" selection-end-line="49" selection-end-column="200" />
+            <state relative-caret-position="369">
+              <caret line="56" column="50" lean-forward="true" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -115,8 +114,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
       </list>
     </option>
   </component>
@@ -151,6 +150,11 @@
             <path>
               <item name="Sass_Practice3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sass_Practice3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass_Practice3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass_Practice3" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sass_Practice3" type="b2602c69:ProjectViewProjectNode" />
@@ -199,18 +203,18 @@
       <option name="presentableId" value="Default" />
       <updated>1536100958912</updated>
       <workItem from="1536100960793" duration="2595000" />
-      <workItem from="1536123173781" duration="963000" />
+      <workItem from="1536123173781" duration="1458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3558000" />
+    <option name="totallyTimeSpent" value="4053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="261" y="0" width="907" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25282168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25282168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,7 +226,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920793" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32920793" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -252,17 +256,17 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="49" column="200" selection-start-line="49" selection-start-column="200" selection-end-line="49" selection-end-column="200" />
+        <state relative-caret-position="-181">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+    <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="369">
+          <caret line="56" column="50" lean-forward="true" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
         </state>
       </provider>
     </entry>
