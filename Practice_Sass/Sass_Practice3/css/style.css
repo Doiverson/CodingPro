@@ -81,7 +81,7 @@ footer {
   position: relative;
 }
 
-footer::before {
+footer::after {
   content: '';
   display: block;
   width: 100%;
@@ -118,6 +118,11 @@ footer::before {
   text-decoration: none;
   text-transform: uppercase;
   padding: 0.5em;
+  transition: 0.3s;
+}
+
+.main-nav a:hover {
+  color: #eeea72;
 }
 
 .img-featured {
@@ -147,15 +152,23 @@ footer::before {
   color: #278da4;
 }
 
-.btn {
+.btn-callout, .btn-info {
   color: #fff;
   display: inline-block;
-  font-size: 0.85em;
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
   padding: 0.75em 1.5em;
   border-radius: 0.35em;
+}
+
+.btn-callout:hover, .btn-info:hover {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.btn-callout:active, .btn-info:active {
+  opacity: initial;
 }
 
 .btn-callout {
@@ -196,7 +209,8 @@ footer::before {
   .main-content {
     width: 90%;
     max-width: 1000px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
