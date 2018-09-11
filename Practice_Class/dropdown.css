@@ -1,0 +1,63 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 830px;
+    display: flex;
+    background-color: mediumpurple;
+    margin: 0 auto;
+
+}
+
+
+
+.box {
+    display: inline-block;
+    height: 600px;
+    border: solid 2px black;
+    border-radius: 25px;
+    padding: 10px 60px 10px 30px;
+    text-align: left;
+    font-size: 18px;
+    flex: 1 0 150px;
+    overflow: hidden;
+    transition: flex-basis 800ms ease-in-out;
+}
+
+
+
+
+.a,
+.b,
+.c {
+    margin-right: -30px;
+}
+
+.a {
+    background-color: brown;
+
+}
+
+.b {
+    background-color: lightgreen;
+
+}
+
+.c {
+    background-color: yellow;
+}
+
+.d {
+    background-color: darkslategrey;
+}
+
+.box:hover {
+    flex-basis: 200px;
+}
+
+
+
+
