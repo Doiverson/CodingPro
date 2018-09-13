@@ -572,6 +572,7 @@ header p {
   padding: 1.5em 1em;
   border: 1px solid #eee;
   border-radius: 0.25em;
+  margin: 10px;
 }
 
 .card h1 {
@@ -582,7 +583,13 @@ header p {
 
 @media (min-width: 576px) {
   .card {
-    flex: 1;
+    flex: 1 48%;
+  }
+}
+
+@media (min-width: 992px) {
+  .card {
+    flex-basis: 30.33333%;
   }
 }
 
@@ -624,7 +631,7 @@ footer::after {
 }
 
 .main-nav a:hover {
-  color: #eeea72;
+  color: rgba(238, 234, 114, 0.7);
 }
 
 .btn-callout, .btn-info {
@@ -660,7 +667,7 @@ footer::after {
 
 .material-icons {
   font-size: 2.35em;
-  color: #278da4;
+  color: #31b0cd;
 }
 
 .img-featured {
