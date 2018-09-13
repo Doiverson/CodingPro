@@ -9,10 +9,7 @@
   margin-top: 75px;
   position: relative;
   z-index: 100;
-}
-
-@media (max-width: 575px) {
-  .img-featured {
-    display: none;
+  @media (max-width: $break-xs) {
+      display: none;
   }
 }
