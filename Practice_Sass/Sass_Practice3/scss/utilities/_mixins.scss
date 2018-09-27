@@ -17,9 +17,26 @@
 }
 
 // Center containers
-@mixin center {
-  width: 90%;
+@mixin center($w) {
+  width: $w;
   max-width: $max-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+// Rounded element
+@mixin roundy($dim, $brbr){
+  width: $dim;
+  height: $dim;
+  border: $brbr;
+  border-radius: 50%;
+}
+
+// Create a flex container
+@mixin flexy($disp: flex,
+  $disp:) {
+  display: $disp;
+  flex-direction: $dir;
+  flex-wrap: $wrap;
+  justify-content: $just;
 }
