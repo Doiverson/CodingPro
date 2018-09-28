@@ -47,7 +47,7 @@
 // Media queries
 @mixin mq($break){
   @if $break =='xs'{
-    @media(max-width: $break-xs){
+    @media(max-width: map-get($breakpoints, 'xs')){
       @content;
     }
   }
