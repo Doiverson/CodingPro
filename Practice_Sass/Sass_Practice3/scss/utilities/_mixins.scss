@@ -33,10 +33,37 @@
 }
 
 // Create a flex container
-@mixin flexy($disp: flex,
-  $disp:) {
+@mixin flexy(
+  $disp: flex,
+  $dir:　null,
+  $wrap: null,
+  $just: null) {
   display: $disp;
   flex-direction: $dir;
   flex-wrap: $wrap;
   justify-content: $just;
+}
+
+// Media queries
+@mixin mq($break){
+  @if $break =='xs'{
+    @media(max-width: $break-xs){
+      @content;
+    }
+  }
+  @else if $break =='sm'{
+  @media(max-width: $break-s){
+    @content;
+    }
+  }
+  @else if $break =='med' {
+    @media(max-width: $break-m) {
+      @content;
+    }
+  }
+  @else if $break =='sm' {
+    @media(max-width: $break-s) {
+      @content;
+    }
+  }
 }

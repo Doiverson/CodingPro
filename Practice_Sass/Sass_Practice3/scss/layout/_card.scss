@@ -3,7 +3,7 @@
 // ======================================
 
 .card {
-  display: flex;
+  @include flexy($dir: column);
   flex-direction: column;
   padding: 1.5em 1em;
   border: 1px solid $color-shade;
