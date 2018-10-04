@@ -24,18 +24,18 @@
   margin-right: auto;
 }
 
-// Rounded element
-@mixin roundy($dim, $brbr){
+// Rounded elements
+@mixin roundy($dim, $brdr: null) {
   width: $dim;
   height: $dim;
-  border: $brbr;
+  border: $brdr;
   border-radius: 50%;
 }
-
+  
 // Create a flex container
 @mixin flexy(
   $disp: flex,
-  $dir:　null,
+  $dir: null,
   $wrap: null,
   $just: null) {
   display: $disp;
@@ -45,25 +45,38 @@
 }
 
 // Media queries
-@mixin mq($break){
-  @if $break =='xs'{
-    @media(max-width: map-get($breakpoints, 'xs')){
-      @content;
-    }
+@mixin mq($break) {  
+  $value: map-get($breakpoints, $break);
+  $sm: map-get($breakpoints, 'sm');            
+
+  @if $value == null {
+    @error "`#{$break}` is not a valid breakepoint name.";
   }
-  @else if $break =='sm'{
-  @media(max-width: $break-s){
-    @content;
-    }
-  }
-  @else if $break =='med' {
-    @media(max-width: $break-m) {
-      @content;
-    }
-  }
-  @else if $break =='sm' {
-    @media(max-width: $break-s) {
-      @content;
-    }
-  }
+
+  @else if $value < $sm {
+    @media (max-width: $value) {
+      @content;       
+    }          
+  }    
+  @else {
+    @media (min-width: $value) {
+      @content;       
+    }             
+  }  
 }
+
+// Colors
+@mixin themes($map) {
+  @each $theme, $color in $map {
+    &-#{$theme} {
+      color: $color;
+    }
+  } 
+}
+
+
+
+
+
+
+

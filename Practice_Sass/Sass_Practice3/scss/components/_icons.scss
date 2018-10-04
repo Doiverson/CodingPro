@@ -4,5 +4,9 @@
 
 .material-icons {
   font-size: 2.35em; 
-  color: $color-primary-light;
+  color: $color-primary-light;   
+}
+
+.icn {
+  @include themes($themes);
 }

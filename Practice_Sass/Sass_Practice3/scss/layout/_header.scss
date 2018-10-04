@@ -17,26 +17,19 @@ header {
     font-size: 4.8em;
     margin-bottom: 0;
     letter-spacing: 1px;
+    @include mq('xs') {
+      font-size: 3.4em;
+    }
   }
   p {
     color: $color-accent;
     font-size: 1.25em;
     margin: 0;
   }
-
-  @media (max-width: $break-xs) {
+  @include mq('xs') {
     height: 340px;
-    h1 {
-      font-size: 3.4em;
-    }
   }
-
-  @media (min-width: $break-l) {
+  @include mq('lg') {
     background-position: 0 0, 0 45%;
   }
 }
-
-
-
-
-

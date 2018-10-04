@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -489,11 +488,10 @@ a:hover {
 
 .main-content {
   display: flex;
-  flex-direction: 　null;
   flex-wrap: wrap;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .main-content {
     width: 90%;
     max-width: 1000px;
@@ -513,6 +511,12 @@ a:hover {
 
 .intro p {
   font-size: 1.2em;
+}
+
+@media (min-width: 992px) {
+  .intro {
+    width: 45%;
+  }
 }
 
 header {
@@ -541,6 +545,12 @@ header h1 {
   letter-spacing: 1px;
 }
 
+@media (max-width: 575px) {
+  header h1 {
+    font-size: 3.4em;
+  }
+}
+
 header p {
   color: #eeea72;
   font-size: 1.25em;
@@ -550,9 +560,6 @@ header p {
 @media (max-width: 575px) {
   header {
     height: 340px;
-  }
-  header h1 {
-    font-size: 3.4em;
   }
 }
 
@@ -564,7 +571,6 @@ header p {
 
 .card {
   display: flex;
-  flex-direction: column;
   flex-direction: column;
   padding: 1.5em 1em;
   border: 1px solid #eee;
@@ -580,13 +586,13 @@ header p {
 
 @media (min-width: 576px) {
   .card {
-    flex: 1 48%;
+    flex: 1 46%;
   }
 }
 
 @media (min-width: 992px) {
   .card {
-    flex-basis: 30.33333%;
+    flex-basis: 27.33333%;
   }
 }
 
@@ -665,6 +671,30 @@ footer::after {
 .material-icons {
   font-size: 2.35em;
   color: #31b0cd;
+}
+
+.icn-ent {
+  color: #79ccf5;
+}
+
+.icn-arch {
+  color: #fd6fa6;
+}
+
+.icn-edu {
+  color: #23bbae;
+}
+
+.icn-sim {
+  color: #2377bb;
+}
+
+.icn-soc {
+  color: #ada3f0;
+}
+
+.icn-games {
+  color: #3cb144;
 }
 
 .img-featured {
